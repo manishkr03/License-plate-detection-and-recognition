@@ -1,0 +1,6 @@
+opencv-python
+numpy
+skimage
+dlib
+pytesseract
+imutils

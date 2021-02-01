@@ -1,2 +1,2 @@
-# License-plate-detection-and-recognition
-License Plate detection and recognition on USA data with 96% accuracy using OpenCV and Pytesseract-OCR
+# License-Plate-Detection-with-Recognition
+USA License Plate detection and recognition using OpenCV and Pytesseract-OCR
